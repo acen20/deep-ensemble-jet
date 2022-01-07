@@ -9,6 +9,7 @@
 ## Architectural details
 
 **CNN1 (Left Wing)**
+
 	> conv layers = 3
 	fc layers = 1
 	filter size = (1,4)
@@ -19,6 +20,7 @@
 	output features = 15
 
 **CNN2 (Right Wing)**
+
 	conv layers = 4
 	fc layers = 1
 	filter size = (1,3)

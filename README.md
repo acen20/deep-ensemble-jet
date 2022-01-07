@@ -10,7 +10,7 @@
 
 **CNN1 (Left Wing)**
 
-	> conv layers = 3
+	conv layers = 3
 	fc layers = 1
 	filter size = (1,4)
 	input channels = 1

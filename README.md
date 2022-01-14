@@ -32,5 +32,21 @@
 	stride = 1
 	padding = none
 	output features = 15
+
+**Sparse AE**
+
+	linear layers = 8
+	dropout = 0.1
+	sparsity = 0.00005
+	output features = 15
+
+**NLPCA**
+
+	input features = 108
+	linear layers = 3
+	output features = 15
 	
+**MLP**
+
+	linear layers = 5
 

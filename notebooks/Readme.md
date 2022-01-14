@@ -1,1 +1,1 @@
-main file: **ransomware_del_jet.ipynb**
+    main file: ransomware_del_jet.ipynb

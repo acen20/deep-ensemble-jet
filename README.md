@@ -48,5 +48,5 @@
 	
 **MLP (Nose)**
 
-	linear layers = 5
+	linear layers = 3
 
